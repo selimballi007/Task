@@ -1,5 +1,5 @@
 "use client";
-import { formatCurrency } from "../../utils";
+
 import { useEffect, useState } from "react";
 
 const fields = ["DOLAR", "Mdf", "Sunta", "Kulp", "Vida", "Cumba", "Baza", "Menteşe"];
